@@ -1,5 +1,6 @@
 # Fine-Tuning Google Flan T5 Large LLM for Instruction-Based Question Answering (Instruct QA) - LLM QLoRA PEFT - Open Orca Dataset
 
+
 ## Introduction
 This project focuses on the fine-tuning of the Flan T5 Large language model for the task of question answering, specifically guided by explicit instructions. By leveraging techniques such as Parameter Efficient Fine-Tuning (PEFT) and Transfer Learning, the project aims to enhance the model's performance on the Open Orca dataset, a diverse collection of questions and answers across various topics and complexities.
 
@@ -41,8 +42,3 @@ The model was fine-tuned for three epochs on a subset of the Open Orca dataset, 
 
 ## Conclusion
 In conclusion, the fine-tuning of the Flan T5 Large language model for instruction-based question answering showcases the potential of leveraging instruction-driven techniques for enhancing model performance on specific tasks. By combining concepts from Parameter Efficient Fine-Tuning and Quantized Low-Rank Adaptation, this project presents a sophisticated approach to improving large language model adaptability and efficiency. The results achieved and methodologies explored in this project provide valuable insights into the realm of fine-tuning and transfer learning for complex language understanding tasks.
-
-
-
-# Code: 
-<iframe src="https://www.kaggle.com/embed/shailjakanttiwari/qlora-llm-instruct-fine-tuning-flan-t5-large?kernelSessionId=142496711" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="QLoRA LLM | Instruct Fine Tuning | Flan T5 Large"></iframe>
