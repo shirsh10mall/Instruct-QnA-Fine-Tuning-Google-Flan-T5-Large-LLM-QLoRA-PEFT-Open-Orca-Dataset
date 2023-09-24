@@ -45,3 +45,18 @@ The model was fine-tuned for three epochs on a subset of the Open Orca dataset, 
 
 ## Conclusion
 In conclusion, the fine-tuning of the Flan T5 Large language model for instruction-based question answering showcases the potential of leveraging instruction-driven techniques for enhancing model performance on specific tasks. By combining concepts from Parameter Efficient Fine-Tuning and Quantized Low-Rank Adaptation, this project presents a sophisticated approach to improving large language model adaptability and efficiency. The results achieved and methodologies explored in this project provide valuable insights into the realm of fine-tuning and transfer learning for complex language understanding tasks.
+
+
+## Few Inference Results:
+
+![image](https://github.com/shirsh10mall/Instruct-QnA-Fine-Tuning-Google-Flan-T5-Large-LLM-QLoRA-PEFT-Open-Orca-Dataset/assets/87264071/88258bda-268a-43bc-a3bb-2b61bac9e3f9)
+
+
+![image](https://github.com/shirsh10mall/Instruct-QnA-Fine-Tuning-Google-Flan-T5-Large-LLM-QLoRA-PEFT-Open-Orca-Dataset/assets/87264071/df8bd1f4-8705-41c8-a900-aece6df7f7cc)
+
+
+![image](https://github.com/shirsh10mall/Instruct-QnA-Fine-Tuning-Google-Flan-T5-Large-LLM-QLoRA-PEFT-Open-Orca-Dataset/assets/87264071/23de2df2-82d7-4bba-bd5a-aea4685895d2)
+
+
+![image](https://github.com/shirsh10mall/Instruct-QnA-Fine-Tuning-Google-Flan-T5-Large-LLM-QLoRA-PEFT-Open-Orca-Dataset/assets/87264071/0d711620-f880-47da-9076-377c68a6d019)
+
